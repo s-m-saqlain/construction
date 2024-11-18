@@ -50,9 +50,9 @@ import { ref } from "vue";
 
 const links = [
   { name: "HOME", path: "/" },
-  { name: "ABOUT", path: "/" },
-  { name: "SERVICES", path: "/" },
-  { name: "PORTFOLIO", path: "/" },
+  // { name: "ABOUT", path: "/" },
+  // { name: "SERVICES", path: "/" },
+  { name: "PORTFOLIO", path: "/portfolio" },
   { name: "TEAM", path: "/" },
   { name: "BLOG", path: "/" },
   { name: "CONTACT", path: "/contact" },

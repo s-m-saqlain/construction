@@ -12,6 +12,8 @@ export default {
     extend: {
       backgroundImage: {
         'hero-bg': "url('~/assets/images/hero1.jpg')",
+        'hero1-bg': "url('~/assets/images/civilverse.png')",
+        'hero2-bg': "url('~/assets/images/homerenovation.png')",
       },
     },
   },

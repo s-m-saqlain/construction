@@ -1,6 +1,8 @@
 <template>
   <div class="min-h-screen bg-black/90 flex items-center justify-center p-8">
-    <div class="container mx-auto lg:max-w-[82rem] xl:max-w-[72rem] 2xl:max-w-[82rem]">
+    <div
+      class="container mx-auto lg:max-w-[82rem] xl:max-w-[72rem] 2xl:max-w-[82rem]"
+    >
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <div class="text-white space-y-12">
           <img src="~/assets/logo/logo1.png" class="w-48 rounded-md" />
