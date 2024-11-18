@@ -3,7 +3,10 @@
     <div
       class="container mx-auto py-2 px-4 lg:px-[6rem] flex justify-between items-center"
     >
-      <img src="~/assets/logo/logo1.png" class="w-24 lg:w-32" />
+      <NuxtLink to="/">
+        <img src="~/assets/logo/logo1.png" class="w-24 lg:w-32" />
+      </NuxtLink>
+
       <button
         @click="toggleMenu"
         class="block lg:hidden text-2xl text-yellow-500 focus:outline-none"
@@ -52,7 +55,7 @@ const links = [
   { name: "PORTFOLIO", path: "/" },
   { name: "TEAM", path: "/" },
   { name: "BLOG", path: "/" },
-  { name: "CONTACT", path: "/" },
+  { name: "CONTACT", path: "/contact" },
 ];
 
 const activeLink = ref<string>("HOME");

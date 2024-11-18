@@ -56,7 +56,7 @@ import "swiper/swiper-bundle.css"; // Import Swiper CSS
 
 const slides = ref([
   {
-    title: "Welcome To Pixel Builde",
+    title: "Welcome To Mariyah developers Builde",
     description: "Providing top-notch services in the construction industry.",
   },
   {
