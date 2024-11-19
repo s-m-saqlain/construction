@@ -10,7 +10,9 @@
         <div class="absolute inset-0 bg-gray-900 opacity-50"></div>
 
         <div class="relative container mx-auto py-24 text-center sm:pt-44">
-          <h1 class="text-xl font-bold mb-4 uppercase text-yellow-500">
+          <h1
+            class="text-xl font-bold mb-4 uppercase text-yellow-500 sm:px-0 px-4"
+          >
             Welcome To Mariyah developers Builde
           </h1>
 
@@ -21,7 +23,7 @@
           </h1>
 
           <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
+            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-[4rem]"
           >
             Contractors and design services
           </h1>
@@ -31,19 +33,39 @@
             World’s Best Construction Company
           </h1>
 
-          <p class="text-xl pt-12">Providing Contractors and design services</p>
+          <p class="text-xl pt-12 sm:px-0 px-4">
+            Providing Contractors and design services
+          </p>
 
-          <div class="sm:flex justify-center item-center gap-6">
+          <div class="sm:block hidden">
+            <div class="sm:flex justify-center item-center gap-6">
+              <NuxtLink to="/portfolio">
+                <button
+                  class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                >
+                  Learn More
+                </button>
+              </NuxtLink>
+              <NuxtLink to="/contact">
+                <button
+                  class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                >
+                  Contact Us
+                </button>
+              </NuxtLink>
+            </div>
+          </div>
+          <div class="sm:hidden">
             <NuxtLink to="/portfolio">
               <button
-                class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                class="uppercase w-64 mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
               >
                 Learn More
               </button>
             </NuxtLink>
             <NuxtLink to="/contact">
               <button
-                class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                class="uppercase mt-6 w-64 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
               >
                 Contact Us
               </button>
@@ -63,37 +85,52 @@
             Best civil Verse
           </h1>
 
-          <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase"
-          >
+          <h1 class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase">
             World’s Best
           </h1>
 
           <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
+            class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12 leading-5"
           >
             civil Verse
           </h1>
 
           <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
+            class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
           >
             Design services
           </h1>
 
           <p class="text-xl pt-12">Providing civil Verse services</p>
-
-          <div class="sm:flex justify-center item-center gap-6">
+          <div class="sm:block hidden">
+            <div class="sm:flex justify-center item-center gap-6">
+              <NuxtLink to="/portfolio">
+                <button
+                  class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                >
+                  Learn More
+                </button>
+              </NuxtLink>
+              <NuxtLink to="/contact">
+                <button
+                  class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                >
+                  Contact Us
+                </button>
+              </NuxtLink>
+            </div>
+          </div>
+          <div class="sm:hidden">
             <NuxtLink to="/portfolio">
               <button
-                class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                class="uppercase mt-6 w-64 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
               >
                 Learn More
               </button>
             </NuxtLink>
             <NuxtLink to="/contact">
               <button
-                class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                class="uppercase mt-6 w-64 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
               >
                 Contact Us
               </button>
@@ -113,37 +150,52 @@
             Best Home Renovation
           </h1>
 
-          <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase"
-          >
+          <h1 class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase">
             World’s Best
           </h1>
 
           <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
+            class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
           >
             Home Renovation
           </h1>
 
           <h1
-            class="sm:block hidden lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
+            class="lg:text-8xl sm:text-5xl text-3xl font-bold mb-4 uppercase sm:leading-12"
           >
             Design services
           </h1>
 
           <p class="text-xl pt-12">Providing Home Renovation services</p>
-
-          <div class="sm:flex justify-center item-center gap-6">
+          <div class="sm:block hidden">
+            <div class="sm:flex justify-center item-center gap-6">
+              <NuxtLink to="/portfolio">
+                <button
+                  class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                >
+                  Learn More
+                </button>
+              </NuxtLink>
+              <NuxtLink to="/contact">
+                <button
+                  class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                >
+                  Contact Us
+                </button>
+              </NuxtLink>
+            </div>
+          </div>
+          <div class="sm:hidden">
             <NuxtLink to="/portfolio">
               <button
-                class="uppercase mt-6 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
+                class="uppercase mt-6 w-64 text-yellow-400 font-semibold border border-yellow-500 hover:bg-yellow-500 hover:text-black py-4 px-10"
               >
                 Learn More
               </button>
             </NuxtLink>
             <NuxtLink to="/contact">
               <button
-                class="uppercase mt-6 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
+                class="uppercase mt-6 w-64 bg-yellow-500 font-semibold text-black hover:bg-[#3B3A38] hover:text-white py-4 px-10"
               >
                 Contact Us
               </button>

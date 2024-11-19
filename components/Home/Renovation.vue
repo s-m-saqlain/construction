@@ -1,16 +1,16 @@
 <template>
   <section class="container mx-auto py-16">
-    <h2 class="text-5xl font-bold text-center mb-8 text-[#011751]">
+    <h2 class="sm:text-5xl text-4xl font-bold text-center mb-8 text-[#011751]">
       World's Best Home Renovation Design Services
     </h2>
     <div
       class="grid grid-cols-1 lg:grid-cols-2 gap-8 text-center lg:max-w-4xl xl:max-w-5xl 2xl:max-w-7xl sm:max-w-2xl mx-auto mt-24"
     >
       <div class="p-4">
-        <h3 class="font-bold text-start text-3xl mb-2 text-[#33628C] uppercase">
+        <h3 class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase">
           Home Renovation Design Services
         </h3>
-        <p class="text-start font-semibold text-xl font-serif pt-8">
+        <p class="lg:text-start text-center font-semibold text-xl font-serif pt-8">
           At Mariya Developers, we believe your home should be a reflection of
           your unique style and evolving needs. Our Home Renovation Design
           Services combine creativity, expertise, and meticulous planning to
