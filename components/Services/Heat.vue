@@ -18,10 +18,14 @@
         </p>
       </div>
       <div class="p-4">
-        <h3 class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase">
+        <h3
+          class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase"
+        >
           Heat resistant
         </h3>
-        <p class="lg:text-start text-center font-semibold text-xl font-serif pt-8">
+        <p
+          class="lg:text-start text-center font-semibold text-xl font-serif pt-8"
+        >
           where high temperatures and intense sun exposure are common,
           heatresistant coatings are crucial for enhancing building performance.
           These coatings reflect solar heat, reducing indoor temperatures and
@@ -30,7 +34,9 @@
           heat, preventing structural damage and prolonging the lifespan of
           buildings
         </p>
-        <p class="lg:text-start text-center pt-8 text-[#011751] font-serif text-xl">
+        <p
+          class="lg:text-start text-center pt-8 text-[#011751] font-serif text-xl"
+        >
           By enhancing thermal insulation, heat-resistant coatings lower energy
           consumption and utility bills, promoting sustainability in
           construction. Additionally, these coatings are designed to withstand
@@ -39,7 +45,9 @@
           heat-resistant coatings also enhance the visual appeal of properties
           while providing
         </p>
-        <p class="lg:text-start text-center pt-8 text-[#011751] font-serif text-xl lg:hidden">
+        <p
+          class="lg:text-start text-center pt-8 text-[#011751] font-serif text-xl lg:hidden"
+        >
           We use only the most advanced materials from Zahabiya Chemical
           Industries and application techniques, ensuring that every surface we
           treat is reinforced to withstand the harshest conditions, guaranteeing

@@ -54,7 +54,7 @@ const links = [
   { name: "ALL SERVICES", path: "/allservices" },
   { name: "PORTFOLIO", path: "/portfolio" },
   { name: "TEAM", path: "/" },
-  { name: "BLOG", path: "/" },
+  { name: "BLOG", path: "/blog" },
   { name: "CONTACT", path: "/contact" },
 ];
 
