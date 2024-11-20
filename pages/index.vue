@@ -1,6 +1,7 @@
 <template>
   <div>
-    <Home-Hero />
+    <!-- <Home-Hero /> -->
+    <Home-Box />
     <!-- <Home-Process /> -->
     <Home-Service />
     <Home-Civil />
