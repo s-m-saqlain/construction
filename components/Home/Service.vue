@@ -1,7 +1,7 @@
 <template>
   <section class="container mx-auto py-16">
     <h2 class="text-5xl font-bold text-center mb-8 text-[#011751]">
-      Our Services
+      Our Business Services
     </h2>
     <div
       class="grid grid-cols-1 lg:grid-cols-2 gap-8 text-center lg:max-w-4xl xl:max-w-5xl 2xl:max-w-7xl sm:max-w-2xl mx-auto mt-24"

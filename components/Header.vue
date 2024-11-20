@@ -24,10 +24,10 @@
           v-for="(link, index) in links"
           :key="index"
           :to="link.path"
-          class="block lg:inline-block hover:text-yellow-500 hover:border-b-2 border-yellow-500"
+          class="block lg:inline-block hover:text-[#162855] hover:border-b-2 border-[#162855]"
           :class="[
             activeLink === link.name
-              ? 'text-yellow-500 border-b-2 border-yellow-500'
+              ? 'text-[#162855] font-bold border-b-2 border-[#162855]'
               : '',
             'pb-2',
           ]"
@@ -53,7 +53,7 @@ const links = [
   // { name: "ABOUT", path: "/" },
   { name: "ALL SERVICES", path: "/allservices" },
   { name: "PORTFOLIO", path: "/portfolio" },
-  { name: "TEAM", path: "/" },
+  // { name: "TEAM", path: "/" },
   { name: "BLOG", path: "/blog" },
   { name: "CONTACT", path: "/contact" },
 ];
