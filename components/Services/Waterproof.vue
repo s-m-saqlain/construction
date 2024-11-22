@@ -20,10 +20,14 @@
         </p>
       </div>
       <div class="p-4">
-        <h3 class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase">
+        <h3
+          class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase"
+        >
           Waterproofing services
         </h3>
-        <p class="lg:text-start text-center font-semibold text-xl font-serif pt-8">
+        <p
+          class="lg:text-start text-center font-semibold text-xl font-serif pt-8"
+        >
           At Mariyah Developers, we specialize in delivering top-tier
           waterproofing services to ensure long-lasting protection against water
           damage. Our expertise covers a wide range of applications, tailored to

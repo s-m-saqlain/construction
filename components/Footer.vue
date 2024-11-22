@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-gray-900 text-white py-8">
     <div class="container mx-auto text-center">
-      <p>&copy; 2024 Your Company. All rights reserved.</p>
+      <p>&copy; 2024 5Cube. All rights reserved.</p>
     </div>
   </footer>
 </template>
