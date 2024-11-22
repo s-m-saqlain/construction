@@ -13,11 +13,13 @@
           {{ feature.sub }}
         </h3>
         <h3
-          class="text-[#162855] group-hover:text-white sm:text-5xl text-4xl lg:py-8 py-4 sm:font-extrabold font-bold"
+          class="text-[#162855] group-hover:text-white xl:text-4xl 2xl:text-5xl lg:text-4xl sm:text-5xl text-4xl lg:py-8 py-4 sm:font-extrabold font-bold"
         >
           {{ feature.title }}
         </h3>
-        <h3 class="text-gray-500 sm:text-xl group-hover:text-gray-400 pb-24 sm:font-bold">
+        <h3
+          class="text-gray-500 sm:text-xl group-hover:text-gray-400 pb-24 sm:font-bold"
+        >
           {{ feature.des }}
         </h3>
 
