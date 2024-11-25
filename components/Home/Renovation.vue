@@ -60,7 +60,7 @@
       <div>
         <img
           src="~/assets/images/homerenovation.png"
-          class="p-2 sm:w-[200rem]"
+          class="p-2 sm:w-[200rem] rounded-[50px]"
         />
         <p
           class="text-start py-8 text-[#011751] font-serif text-xl lg:block hidden"

@@ -7,7 +7,7 @@
       class="grid grid-cols-1 lg:grid-cols-2 gap-8 text-center lg:max-w-4xl xl:max-w-5xl 2xl:max-w-7xl sm:max-w-2xl mx-auto mt-24"
     >
       <div>
-        <img src="~/assets/images/heat.png" class="p-2 sm:w-[200rem]" />
+        <img src="~/assets/images/heat.png" class="p-2 sm:w-[200rem] rounded-[50px]" />
         <p
           class="text-start pt-8 text-[#011751] font-serif text-xl lg:block hidden"
         >

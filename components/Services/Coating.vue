@@ -34,7 +34,7 @@
           epoxy coatings can enhance the visual appeal of any space.
         </p>
       </div>
-      <img src="~/assets/images/expocoating.png" class="p-2 sm:w-[200rem]" />
+      <img src="~/assets/images/expocoating.png" class="p-2 sm:w-[200rem] rounded-[50px]" />
     </div>
   </section>
 </template>

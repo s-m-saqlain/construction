@@ -53,8 +53,8 @@
           delivery, and adherence to your budget.
         </p>
       </div>
-      <div class="sm:p-4 p-2 lg:bg-hero-bg sm:w-full">
-        <img src="~/assets/images/hero1.jpg" class="lg:hidden" />
+      <div class="sm:p-4 p-2 lg:bg-hero-bg rounded-[50px] sm:w-full">
+        <img src="~/assets/images/hero1.jpg" class="lg:hidden rounded-[50px]" />
       </div>
     </div>
   </section>

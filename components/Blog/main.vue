@@ -5,7 +5,10 @@
     >
       <div class="p-4">
         <div class="sm:flex items-center gap-8">
-          <img src="~/assets/images/blog.png" class="p-2 sm:mx-0 mx-auto" />
+          <img
+            src="~/assets/images/blog.png"
+            class="p-2 sm:mx-0 mx-auto rounded-[50px]"
+          />
           <div>
             <h3
               class="font-bold lg:text-start text-center text-3xl mb-2 text-[#33628C] uppercase"
